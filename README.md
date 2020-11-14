@@ -3,7 +3,7 @@ This game is off the classic flappy bird game. It's a replica and interacts simi
 
 # Development Environment
 * IntelliJ
-* Python 3.8.5
+* JDK 15
 
 # Execution
 click "run" button
